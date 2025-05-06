@@ -60,7 +60,7 @@ cd Face-Recognition-Project
 Install dependencies
 pip install -r requirements.txt
 
-##🚀 How to Run
+## 🚀 How to Run
 Capture Faces
 python scripts/capture_faces.py
 
@@ -69,7 +69,7 @@ python scripts/train_model.py
 Launch GUI
 python ui/main_interface.py
 
-##🧾 Requirements
+## 🧾 Requirements
 Add the following to requirements.txt:
 opencv-python
 numpy
