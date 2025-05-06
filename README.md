@@ -50,10 +50,6 @@ Face-Recognition-Project/
 ├── README.md
 └── requirements.txt
 
-
-
----
-
 ## 🛠️ Installation
 
 1. **Clone the repository**
