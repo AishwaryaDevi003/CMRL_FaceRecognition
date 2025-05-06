@@ -54,8 +54,8 @@ Face-Recognition-Project/
 
 1. **Clone the repository**
 2. 
-git clone https://github.com/your-username/Face-Recognition-Project.git
-cd Face-Recognition-Project
+git clone https://github.com/AishwaryaDevi003/CMRL_FaceRecognition.git
+cd CMRL_FaceRecognition
 
 Install dependencies
 pip install -r requirements.txt
